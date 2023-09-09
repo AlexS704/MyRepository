@@ -1,0 +1,10 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/MyRepository/v17/.wsuo
+/.vs/MyRepository/FileContentIndex/a40b6b67-666a-402f-833a-e209aafdb3be.vsidx
+/.vs/MyRepository/FileContentIndex/a2319d43-48ec-4b5b-9c54-8e87934662cc.vsidx
+*.vsidx
+/.vs/slnx.sqlite
+/.vs/MyRepository/FileContentIndex/04eec73d-627b-4adb-9611-9b9b97bd003b.vsidx
